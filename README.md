@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there I'm Roman 👋
+I'm Roman Kvas, now I am learning code at [Mate academy](https://mate.academy/).I have experience in HTML/CSS, Sass(SCSS), JavaScript, TypeScript, React 
 
-<!--
-**FallenMAD/FallenMAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Reach me out!
 
-Here are some ideas to get you started:
+[![Mail Badge](https://img.shields.io/badge/Gmail-text?style=flat&logo=Gmail&color=fff)](mailto:naruto.yzymaki4@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Top Technologies:
+![Static Badge](https://img.shields.io/badge/React-text?style=for-the-badge&logo=React&labelColor=000&color=blue)
+![Static Badge](https://img.shields.io/badge/JavaScript-text?style=for-the-badge&logo=JavaScript&labelColor=000&color=yellow&link=JavaScript)
+![Static Badge](https://img.shields.io/badge/HTML-text?style=for-the-badge&logo=HTML5&labelColor=black&color=orange)
+![Static Badge](https://img.shields.io/badge/CSS-text?style=for-the-badge&logo=CSS3&logoColor=%231572B6&labelColor=black&color=%231572B6)
+![Static Badge](https://img.shields.io/badge/Sass(SCSS)-text?style=for-the-badge&logo=Sass&labelColor=black&color=pink)
+![Static Badge](https://img.shields.io/badge/TypeScript-text?style=for-the-badge&logo=TypeScript&labelColor=black&color=blue)
+![Static Badge](https://img.shields.io/badge/Redux-text?style=for-the-badge&logo=Redux&logoColor=%23764ABC&labelColor=black&color=%23764ABC)
+
+
+![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenMAD&show_icons=true&theme=transparent)
+
+
+
+
+
+
+
+
+
+
+
