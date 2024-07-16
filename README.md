@@ -3,7 +3,7 @@ I'm Roman Kvas, now I am learning code at [Mate academy](https://mate.academy/).
 
 📫 Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/Gmail-text?style=flat&logo=Gmail&color=fff)](mailto:naruto.yzymaki4@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-text?style=flat&logo=Gmail&color=fff)](mailto:kvas.roman.job@gmail.com)
 
 # Top Technologies:
 ![Static Badge](https://img.shields.io/badge/React-text?style=for-the-badge&logo=React&labelColor=000&color=blue)
