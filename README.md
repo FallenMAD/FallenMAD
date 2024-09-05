@@ -1,5 +1,5 @@
 ### Hi there I'm Roman 👋
-I'm Roman Kvas, now I am learning code at [Mate academy](https://mate.academy/).I have experience in HTML/CSS, Sass(SCSS), JavaScript, TypeScript, React 
+I'm Roman Kvas, and I'm a Front-end Developer. I have experience in HTML/CSS, Sass(SCSS), JavaScript, TypeScript, React, React Router, Redux!
 
 📫 Reach me out!
 
