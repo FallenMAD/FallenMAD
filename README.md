@@ -14,7 +14,6 @@ I'm Roman Kvas, and I'm a Front-end Developer. I have experience in HTML/CSS, Sa
 ![Static Badge](https://img.shields.io/badge/TypeScript-text?style=for-the-badge&logo=TypeScript&labelColor=black&color=blue)
 ![Static Badge](https://img.shields.io/badge/Redux-text?style=for-the-badge&logo=Redux&logoColor=%23764ABC&labelColor=black&color=%23764ABC)
 
-
 ![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenMAD&show_icons=true&theme=transparent)
 
 
